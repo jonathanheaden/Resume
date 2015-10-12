@@ -1,6 +1,7 @@
 #Jonathan Headen
 
-##jonathan.headen@outlook.com	0400177431
+**0400177431**  
+
 
 ###Infrastructure Design
 
@@ -79,4 +80,5 @@ At the **National Australia Bank** I joined the "Above the Line" team which was 
 ## About
 [LinkedIn](https://au.linkedin.com/in/jonathanheaden)  
 [github](https://github.com/jonathanheaden)  
-[bitbucket](https://bitbucket.org/Jonathanheaden/)
+[bitbucket](https://bitbucket.org/Jonathanheaden/)  
+[email](mailto:jonathan.headen@outlook.com)
