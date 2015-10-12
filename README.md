@@ -29,7 +29,12 @@ Role : Active Directory health check and remediation tasks. Creation of automate
 #### Byte	
 When : May 14 – May 15	   
 Position : `Senior Consultant`	 
-Role : Presales and consultancy to c-level customer stakeholders. Delivered Projects include: migration of Citrix 4.5 presentation server to XenApp 7.5, remediation of ~200 apps, creation of FIM self service portal, 7000 seat on premise to O365 exchange migration.
+Role : Presales and consultancy to c-level customer stakeholders. Delivered Projects include: 
+
+- migration of Citrix 4.5 presentation server to XenApp 7.5 remediation of ~200 apps
+- design and implementation of FIM self service portal for users to update their SharePoint online profiles
+- 7000 seat on premise to O365 exchange migration.
+- customer onboarding and cloud migration
 
 #### ANZ	
 **When** : Jul 11 - Jan 14    
@@ -51,7 +56,7 @@ Role : Presales and consultancy to c-level customer stakeholders. Delivered Proj
 **Position** : `System Engineer`	
 **Role** : Working on the implementation of Active Directory and the removal of Netware
 
-#### Dimension Data (Australia)
+#### Dimension Data
 **When** : Oct 06 – May 07    
 **Position** : `System Engineer`	 
 **Role** : Netware to Active Directory Migration for Governmental Customer. Installed and configured AD & SMS 2003
@@ -72,6 +77,6 @@ At **ANZ** I performed deep dive troubleshooting for critical incidents and core
 At the **National Australia Bank** I joined the "Above the Line" team which was created to provide direction to the outsourced support teams, to act as a go-to team for interpretation of situations where a particular scenario didn't fit the support model. I chaired the desktop governance technical forum and participated in some others. I was called upon to act as an escalation path for systemic issues affecting the end-user workplace services. I sought ways to improve the daily tasks of my team and others including a GPO QA script to verify that a GPO was ready to go-live. The code for this QA script is available for review on github. I created custom SCCM reports and produced scripts to pull information from these reports sending the output via SMTP to other teams.
 
 ## About
-[LinkedIn](https://au.linkedin.com/in/jonathanheaden)
-[github](https://github.com/jonathanheaden)
+[LinkedIn](https://au.linkedin.com/in/jonathanheaden)  
+[github](https://github.com/jonathanheaden)  
 [bitbucket](https://bitbucket.org/Jonathanheaden/)
