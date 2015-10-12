@@ -1,6 +1,6 @@
 #Jonathan Headen
 
-**0400177431**  
+mobile: 0400177431  
 
 
 ###Infrastructure Design
@@ -11,7 +11,7 @@ I have over 15 years experience in enterprise environments, a solid understandin
 - Powershell	
 - Quest Recovery Manager
 - SCCM	
-- FIM	
+- FIM/DirSync	
 - Deployment
 - Sharepoint	
 - Orchestrator	
@@ -71,7 +71,13 @@ Role : Presales and consultancy to C-Level customer stakeholders. Delivered Proj
 
 My most recent engagement is with the **Department of Education** in Victoria. I’ve been working with the Microsoft premier field services to assist remediation tasks following an Active Directory Health check. Over half of the initial findings have been resolved or mitigated in the three months since inception. I designed & implemented an automated service account request process which validates user input through SharePoint, tracks authorization and implements standardized account creation via an orchestrator runbook. I consulted with key stakeholders to gain acceptance through several iterations of the process from inception to full implementation.
 
-At **Byte** I performed a presales and consultancy role during which time I engaged with c-level stakeholders in small to medium sized organizations to assist them with the creation and tuning of their technology strategy. Some projects I consulted and delivered during this time include: creating a FIM self service portal for a client, writing custom code to update their online SharePoint profiles. I also scoped and delivered an IE 10 upgrade via SCCM, and assisted with a 7000 seat on-premise to Office 365 exchange migration. My intitial engagement was as migration consultant for Orora who had recently demerged from Amcor. I mapped the configuration of the legacy Citrix environment, then prepared the Xenapp 7.5 environment for migration. This included remediation of approx. 200 applications with disparate levels of vendor support and documentation. I worked on the XP to Win7 migration, creating a mini-CMDB in the process to assist with project planning.
+At **Byte** I performed a presales and consultancy role during which time I engaged with C-Level stakeholders in small to medium sized organizations to assist them with the creation and tuning of their technology strategy. Some projects I consulted and delivered during this time include: 
+
+- Creating a FIM self service portal for a client, writing custom code to update their online SharePoint profiles. 
+- I also scoped and delivered an IE 10 upgrade via SCCM 
+- I assisted with a 7000 seat on-premise to Office 365 exchange migration. 
+
+My intitial engagement was as migration consultant for Orora who had recently demerged from Amcor. I mapped the configuration of the legacy Citrix environment, then prepared the Xenapp 7.5 environment for migration. This included remediation of approx. 200 applications with disparate levels of vendor support and documentation. I worked on the XP to Win7 migration, creating a mini-CMDB in the process to assist with project planning.
 
 At **ANZ** I performed deep dive troubleshooting for critical incidents and core applications with dependency on Active Directory. I participated in several high severity ‘task force’ engagements to address critical application performance. I was one of the initial engineers for the newly created windows engineering team, tasked with maintaining the platform integrity and pursuing stable life cycle management. I was one of the founding members of the Engineering Council. This council was responsible for the governance of the end user workplace environment SOE. I prepared & presented the design for the proposed Server 2012 standards. I prepared the design and assisted with the implementation of the Quest Recovery Manager for Active Directory product. I was engaged in the core infrastructure uplift program; delivering WinXP to Windows 7 deployment to clients and implementing a ‘Greenfields’ Active Directory backend spanning nearly thirty countries across the globe. Identity management for the new solution comprised of FIM with ADMT for user migration. My involvement spanned the planning, implementation and governance of the project. I participated in several working groups to consider life cycle design decisions and review proposals in relation to this major project. I chaired the weekly defect meeting for Win7 desktop. During the deployment phase of this project, I designed and implemented the SharePoint site which was used for documentation of all configuration decisions made relating to the Global AD rollout. I also had some minor team lead responsibilities.
 
