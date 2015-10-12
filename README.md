@@ -29,12 +29,12 @@ Role : Active Directory health check and remediation tasks. Creation of automate
 #### Byte	
 When : May 14 – May 15	   
 Position : `Senior Consultant`	 
-Role : Presales and consultancy to c-level customer stakeholders. Delivered Projects include: 
+Role : Presales and consultancy to C-Level customer stakeholders. Delivered Projects include: 
 
-- migration of Citrix 4.5 presentation server to XenApp 7.5 remediation of ~200 apps
-- design and implementation of FIM self service portal for users to update their SharePoint online profiles
+- Migration of Citrix 4.5 presentation server to XenApp 7.5  including the remediation of ~200 apps
+- Design and implementation of FIM self service portal for users to update their SharePoint online profiles
 - 7000 seat on premise to O365 exchange migration.
-- customer onboarding and cloud migration
+- Customer onboarding and cloud migration
 
 #### ANZ	
 **When** : Jul 11 - Jan 14    
@@ -68,7 +68,7 @@ Role : Presales and consultancy to c-level customer stakeholders. Delivered Proj
 
 ##Detailed Experience
 
-My most recent engagement is with the **Department of Education** in Victoria. I’ve been working with the Microsoft premier field services to assist remediation tasks following an Active Directory Health check. Over 50% of the initial findings have been resolved or mitigated in the three months since inception. I have designed, implemented an automated service account request process which validates user input through SharePoint, tracks authorization and implements standardized account creation via an orchestrator runbook. I spent considerable effort to evangelise the the process and gain key stakeholder acceptance through iterations of the process from inception to full implementation.
+My most recent engagement is with the **Department of Education** in Victoria. I’ve been working with the Microsoft premier field services to assist remediation tasks following an Active Directory Health check. Over half of the initial findings have been resolved or mitigated in the three months since inception. I designed & implemented an automated service account request process which validates user input through SharePoint, tracks authorization and implements standardized account creation via an orchestrator runbook. I consulted with key stakeholders to gain acceptance through several iterations of the process from inception to full implementation.
 
 At **Byte** I performed a presales and consultancy role during which time I engaged with c-level stakeholders in small to medium sized organizations to assist them with the creation and tuning of their technology strategy. Some projects I consulted and delivered during this time include: creating a FIM self service portal for a client, writing custom code to update their online SharePoint profiles. I also scoped and delivered an IE 10 upgrade via SCCM, and assisted with a 7000 seat on-premise to Office 365 exchange migration. My intitial engagement was as migration consultant for Orora who had recently demerged from Amcor. I mapped the configuration of the legacy Citrix environment, then prepared the Xenapp 7.5 environment for migration. This included remediation of approx. 200 applications with disparate levels of vendor support and documentation. I worked on the XP to Win7 migration, creating a mini-CMDB in the process to assist with project planning.
 
