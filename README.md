@@ -92,11 +92,11 @@ At **ANZ** I was one of the initial engineers for the newly created windows engi
 
 
 ## Education 
-###Dublin Institute of Technology  
+### Dublin Institute of Technology  
 Bachelor of Science (B.Sc.), Marketing/Marketing Management  
 Dates attended: 1990 – 1994  
 Grade: 2.1 
-###Vendor Certifications 
+### Vendor Certifications 
 MCSE/MCITP (microsoft), CCNA/CCNP (cisco), CCA (citrix) 
 
 ## About
