@@ -1,9 +1,9 @@
-#Jonathan Headen
+# Jonathan Headen
 
 mobile: 0400177431  
 
 
-###Infrastructure Design
+### Infrastructure Design
 
 I have over 15 years experience in enterprise environments, specializing in Microsoft technologies. My strengths are in design, scripting, analyzing current configuration, and process streamlining. I deliver solid project results in a timely manner, working autonomously or within a team. I create documentation that is easy to read and functional.  
 
@@ -23,6 +23,11 @@ My expertise includes:
 - Group Policy & Templates	
 
 ## Professional Experience
+
+#### ANZ	
+**When** : Nov 2015 – Present  
+**Position** : `Technnology Manager`	 
+**Role** : Working with EDU program uplifting enterrise applications to allow XP -> Win7 migration, also working as part of branch migration project collaborating on the localaisation script used to configure branch users environment control at thin client/VDI devices
 
 #### DEECD	
 **When** : May 2015 – Present  
@@ -69,9 +74,11 @@ My expertise includes:
 **Position** : `System Engineer`	 
 **Role** : Environment transformation project (physical to virtual migration of 140+ servers) for Insurance Customer. Internal and smaller Customer projects.
 
-##Detailed Experience
+## Detailed Experience
 
-My most recent engagement is with the **Department of Education** in Victoria. I’ve been working with the Microsoft premier field services to assist remediation tasks following an Active Directory Health check. Over half of the initial findings have been resolved or mitigated in the three months since inception. I designed & implemented an automated service account request process which validates user input through SharePoint, tracks authorization and implements standardized account creation via an orchestrator runbook. I consulted with key stakeholders to gain acceptance through several iterations of the process from inception to full implementation.
+My most recent engagement is with **ANZ** as technology manager to assist with the legacy operating system uplift. During my time here I have contributed to the successful migration of VIPS from XP based scanning devices to Win7, I managed the reporting and recording facility of 'Propero' database to maintain status reporting to program stakeholders. I collaborated within my team to write the powershell localisation script. We used a local instance of gitlab as source control, this has since been migrated to the internal bitbucket instance. 
+
+at the **Department of Education** in Victoria. I worked with the Microsoft premier field services to assist remediation tasks following an Active Directory Health check. Over half of the initial findings have been resolved or mitigated in the three months since inception. I designed & implemented an automated service account request process which validates user input through SharePoint, tracks authorization and implements standardized account creation via an orchestrator runbook. I consulted with key stakeholders to gain acceptance through several iterations of the process from inception to full implementation.
 
 At **Byte** I performed a presales and consultancy role during which time I engaged with C-Level stakeholders in small to medium sized organizations to assist them with the creation and tuning of their technology strategy. Some projects I consulted and delivered during this time include: 
 
