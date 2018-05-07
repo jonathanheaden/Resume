@@ -13,7 +13,7 @@ My wife sells products [online](https://pileaplace.com). She hosts her store on 
 
 She could not find a suitable solution to calculate accurate shipping costs for Australia. She required the ability to calculate shipping using the AusPost API & to control which products could be ordered from which Australian States, and which products could not be dispatched to international destinations.
 
-I wrote a custom node JS app which I host on digitalocean to suit her needs. The backend is written in nodeJS, the frontend in VueJS and it uses Json Web Tokens for single signon. It is embedded in the Shopify admin console as a SaaS for merchants. Below url is a static front page to explain what the app does
+I wrote a custom node JS app which I host on digitalocean to suit her needs. The backend is written in nodeJS, the frontend in VueJS and it uses Json Web Tokens for single signon. The code is in a private BitBucket repository. It is embedded in the Shopify admin console as a SaaS for merchants. Below url is a static front page to explain what the app does
 
 https://australianpostagecalculator.com
 
