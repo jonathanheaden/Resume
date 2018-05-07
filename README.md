@@ -30,7 +30,7 @@ From November 2015 to may 2017 I was working with the EDU program uplifting ente
 #### DEECD	
 **When** : May 2015 – Present  
 **Position** : `Technical Analyst`	 
-**Role** : Active Directory health check and remediation tasks. I creatied an automated process for self service requesting of 'AD service accounts' using SharePoint, nintex workflow and System Center Orchestrator.
+**Role** : Active Directory health check and remediation tasks. I created an automated process for self service requesting of 'AD service accounts' using SharePoint, nintex workflow and System Center Orchestrator.
 
 #### Byte	
 **When** : May 2014 – May 2015	   
