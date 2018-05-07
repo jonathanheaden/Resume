@@ -3,36 +3,34 @@
 mobile: 0400177431  
 
 
-### Infrastructure Design
+## About me
+I love tech! I take every opportunity to incorporate the latest tech into my personal life. I like to stay up to date by listening to podcasts, reading and studying. 
+I see Cloud as an opportunity to enhance our collective productivity.
 
-I have over 15 years experience in enterprise environments, specializing in Microsoft technologies. My strengths are in design, scripting, analyzing current configuration, and process streamlining. I deliver solid project results in a timely manner, working autonomously or within a team. I create documentation that is easy to read and functional.  
+## Reference work
+### Shopify app 
+My wife sells products [online](https://pileaplace.com). She hosts her store on [Shopify](https://www.shopify.com.au/).
 
-My expertise includes:
+She could not find a suitable solution to calculate accurate shipping costs for Australia. She required the ability to calculate shipping using the AusPost API & to control which products could be ordered from which Australian States, and which products could not be dispatched to international destinations.
 
-- Active Directory 
-- Powershell	
-- Quest Recovery Manager
-- SCCM	
-- FIM/DirSync	
-- Deployment
-- SharePoint	
-- Orchestrator	
-- SQL	
-- MDT/ADK
-- Wireshark
-- Group Policy & Templates	
+I wrote a custom node JS app which I host on digitalocean to suit her needs. The backend is written in nodeJS, the frontend in VueJS and it uses Json Web Tokens for single signon. It is embedded in the Shopify admin console as a SaaS for merchants. Below url is a static front page to explain what the app does
+
+https://australianpostagecalculator.com
+
 
 ## Professional Experience
 
 #### ANZ	
 **When** : Nov 2015 – Present  
 **Position** : `Technnology Manager`	 
-**Role** : Working with EDU program uplifting enterrise applications to allow XP -> Win7 migration, also working as part of branch migration project collaborating on the localaisation script used to configure branch users environment control at thin client/VDI devices
+**Role** : Since May 2017 I have been working with the external cloud team actively building the multi-cloud capability for ANZ. As a team we are abstracting the regulatory and security constraints that a financial institution must place on cloud usage. We strive to enable our internal customer to consume first Azure then AWS & GCP service in a safe and trusted manner  
+From November 2015 to may 2017 I was working with the EDU program uplifting enterprise applications to allow XP -> Win7 migration. I was also a part of the branch migration project collaborating on the localization script used to configure branch users environment control at thin client/VDI devices. 
+
 
 #### DEECD	
 **When** : May 2015 – Present  
 **Position** : `Technical Analyst`	 
-**Role** : Active Directory health check and remediation tasks. Creation of automated process for requesting service accounts involving SharePoint, nintex workflow and System Center Orchestrator.
+**Role** : Active Directory health check and remediation tasks. I creatied an automated process for self service requesting of 'AD service accounts' using SharePoint, nintex workflow and System Center Orchestrator.
 
 #### Byte	
 **When** : May 2014 – May 2015	   
